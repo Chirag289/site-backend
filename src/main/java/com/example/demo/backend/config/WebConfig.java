@@ -1,4 +1,4 @@
-package backend.config;
+package com.example.demo.backend.config;
 
 //@Configuration
 //@EnableWebMvc
